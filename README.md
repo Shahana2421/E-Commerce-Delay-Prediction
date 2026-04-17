@@ -61,4 +61,4 @@ Python
 Pandas, NumPy
 Scikit-learn
 XGBoost
-Matplotlib / Seaborn   give atleast 350 words only
+Matplotlib / Seaborn   
