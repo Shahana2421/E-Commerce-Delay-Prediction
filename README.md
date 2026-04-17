@@ -1,7 +1,8 @@
 📦 E-commerce Delivery Delay Prediction
 🔍 Project Overview
 
-This project focuses on predicting whether an e-commerce product delivery will be delayed or on time using machine learning techniques. By analyzing customer behavior, product details, and shipment characteristics, the model helps businesses improve logistics and customer satisfaction.
+This project focuses on predicting whether an e-commerce product delivery will be delayed or on time using machine learning techniques. By analyzing customer behavior, 
+product details, and shipment characteristics, the model helps businesses improve logistics and customer satisfaction.
 
 🎯 Objective
 
